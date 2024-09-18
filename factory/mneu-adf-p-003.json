@@ -1,0 +1,9 @@
+{
+	"name": "mneu-adf-p-003",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c2b64232-2690-4826-a39e-7266d8f04afd",
+		"tenantId": "b727a530-a0d5-4fb8-bd40-d8f9763e97db"
+	}
+}
